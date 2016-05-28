@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0d2bb25752c68918fafb4aa4c5dd62e8dd14c863">
+        <dex dex="/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_841237ffa00a9297781a5f0ec4826bfe9a3ccf72.jar" />
+    </item>
+    <item
+        jar="/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_d5b79174bfa991c5494254572d59bff790a40a58.jar" />
+    </item>
+    <item
+        jar="/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_fbcae183cf837c9584054d1cbbb25d28d5a61a7b.jar" />
+    </item>
+    <item
+        jar="/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_3705c272cbcba3925e46bf0d3c1ee0f9335d3811.jar" />
+    </item>
+    <item
+        jar="/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_96768bab99eb2618c050d55cb37957d61229ea0a.jar" />
+    </item>
+    <item
+        jar="/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_d15dc8405937095e865a898618f4db7485d4727e.jar" />
+    </item>
+    <item
+        jar="/Users/viniciusdepaula/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_eaab95707b9f74ee8ceae91f684fca0ad60dcfcd.jar" />
+    </item>
+    <item
+        jar="/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-v13-23.3.0_fcc7a15048ec7d05cefe40c13b46f4700f2a900f.jar" />
+    </item>
+    <item
+        jar="/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-8.4.0_a093e1c0607229b201031a5d432676ba336b223a.jar" />
+    </item>
+    <item
+        jar="/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-measurement-8.4.0_8b65519197f9cc88c62efa5cc9a398cae4805315.jar" />
+    </item>
+
+</items>

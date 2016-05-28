@@ -1,0 +1,41 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "br.com.inngage.phonegap"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "br.com.inngage.phonegap"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "583253612430",
+            "PACKAGE_NAME": "br.com.inngage.phonegap"
+        },
+        "cordova-plugin-appversion": {
+            "PACKAGE_NAME": "br.com.inngage.phonegap"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "br.com.inngage.phonegap"
+        },
+        "cordova-plugin-app-version": {
+            "PACKAGE_NAME": "br.com.inngage.phonegap"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "$(PRODUCT_BUNDLE_IDENTIFIER)"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "br.com.inngage.phonegap"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "br.com.inngage.phonegap"
+        }
+    }
+}

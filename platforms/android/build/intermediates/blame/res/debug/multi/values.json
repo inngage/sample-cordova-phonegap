@@ -1,0 +1,1014 @@
+[
+    {
+        "outputFile": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 60,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 757,
+                        "endColumn": 60,
+                        "endOffset": 813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 89,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 861,
+                        "endColumn": 89,
+                        "endOffset": 946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 256,
+                    "endColumn": 79,
+                    "endOffset": 331
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1041,
+                        "endColumn": 79,
+                        "endOffset": 1116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 336,
+                    "endColumn": 89,
+                    "endOffset": 421
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1121,
+                        "endColumn": 89,
+                        "endOffset": 1206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 426,
+                    "endColumn": 89,
+                    "endOffset": 511
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 951,
+                        "endColumn": 89,
+                        "endOffset": 1036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 516,
+                    "endColumn": 79,
+                    "endOffset": 591
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1211,
+                        "endColumn": 79,
+                        "endOffset": 1286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 596,
+                    "endColumn": 80,
+                    "endOffset": 672
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1371,
+                        "endColumn": 80,
+                        "endOffset": 1447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 677,
+                    "endColumn": 79,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1452,
+                        "endColumn": 79,
+                        "endOffset": 1527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endColumn": 79,
+                    "endOffset": 832
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1291,
+                        "endColumn": 79,
+                        "endOffset": 1366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 837,
+                    "endColumn": 87,
+                    "endOffset": 920
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 87,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 925,
+                    "endColumn": 77,
+                    "endOffset": 998
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 77,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1003,
+                    "endColumn": 87,
+                    "endOffset": 1086
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 356,
+                        "endColumn": 87,
+                        "endOffset": 439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1091,
+                    "endColumn": 87,
+                    "endOffset": 1174
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 190,
+                        "endColumn": 87,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1179,
+                    "endColumn": 77,
+                    "endOffset": 1252
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 444,
+                        "endColumn": 77,
+                        "endOffset": 517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1257,
+                    "endColumn": 78,
+                    "endOffset": 1331
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 78,
+                        "endOffset": 674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1336,
+                    "endColumn": 77,
+                    "endOffset": 1409
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endColumn": 77,
+                        "endOffset": 752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1414,
+                    "endColumn": 77,
+                    "endOffset": 1487
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endColumn": 77,
+                        "endOffset": 595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2218,
+                    "endColumn": 66,
+                    "endOffset": 2280
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values/version.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2285,
+                    "endColumn": 63,
+                    "endOffset": 2344
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 63,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2349,
+                    "endColumn": 50,
+                    "endOffset": 2395
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 50,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2400,
+                    "endColumn": 91,
+                    "endOffset": 2487
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values/auth_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 91,
+                        "endOffset": 340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2492,
+                    "endColumn": 87,
+                    "endOffset": 2575
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values/auth_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 87,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2580,
+                    "endColumn": 231,
+                    "endOffset": 2807
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 6029,
+                        "endColumn": 235,
+                        "endOffset": 6260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2812,
+                    "endColumn": 125,
+                    "endOffset": 2933
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2382,
+                        "endColumn": 125,
+                        "endOffset": 2503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2938,
+                    "endColumn": 180,
+                    "endOffset": 3114
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1986,
+                        "endColumn": 184,
+                        "endOffset": 2166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3119,
+                    "endColumn": 124,
+                    "endOffset": 3239
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1710,
+                        "endColumn": 124,
+                        "endOffset": 1830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3244,
+                    "endColumn": 123,
+                    "endOffset": 3363
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1439,
+                        "endColumn": 123,
+                        "endOffset": 1558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3368,
+                    "endColumn": 212,
+                    "endOffset": 3576
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 742,
+                        "endColumn": 216,
+                        "endOffset": 954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3581,
+                    "endColumn": 214,
+                    "endOffset": 3791
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1124,
+                        "endColumn": 218,
+                        "endOffset": 1338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3796,
+                    "endColumn": 122,
+                    "endOffset": 3914
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 455,
+                        "endColumn": 122,
+                        "endOffset": 573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3919,
+                    "endColumn": 164,
+                    "endOffset": 4079
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 4775,
+                        "endColumn": 164,
+                        "endOffset": 4935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4084,
+                    "endColumn": 93,
+                    "endOffset": 4173
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 4560,
+                        "endColumn": 93,
+                        "endOffset": 4649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4178,
+                    "endColumn": 140,
+                    "endOffset": 4314
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 4302,
+                        "endColumn": 140,
+                        "endOffset": 4438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4319,
+                    "endColumn": 89,
+                    "endOffset": 4404
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4099,
+                        "endColumn": 89,
+                        "endOffset": 4184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4409,
+                    "endColumn": 102,
+                    "endOffset": 4507
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 102,
+                        "endOffset": 303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4512,
+                    "endColumn": 142,
+                    "endOffset": 4650
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 7134,
+                        "endColumn": 142,
+                        "endOffset": 7272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4655,
+                    "endColumn": 99,
+                    "endOffset": 4750
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 6890,
+                        "endColumn": 99,
+                        "endOffset": 6985
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4755,
+                    "endColumn": 150,
+                    "endOffset": 4901
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 6599,
+                        "endColumn": 150,
+                        "endOffset": 6745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4906,
+                    "endColumn": 91,
+                    "endOffset": 4993
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 6384,
+                        "endColumn": 91,
+                        "endOffset": 6471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4998,
+                    "endColumn": 218,
+                    "endOffset": 5212
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 222,
+                        "endOffset": 460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 5217,
+                    "endColumn": 218,
+                    "endOffset": 5431
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 5305,
+                        "endColumn": 222,
+                        "endOffset": 5523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 5436,
+                    "endColumn": 94,
+                    "endOffset": 5526
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 5073,
+                        "endColumn": 94,
+                        "endOffset": 5163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 5531,
+                    "endColumn": 104,
+                    "endOffset": 5631
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 5622,
+                        "endColumn": 104,
+                        "endOffset": 5722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 5636,
+                    "endColumn": 180,
+                    "endOffset": 5812
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2929,
+                        "endColumn": 184,
+                        "endOffset": 3109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5817,
+                    "endColumn": 124,
+                    "endOffset": 5937
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2654,
+                        "endColumn": 124,
+                        "endOffset": 2774
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5942,
+                    "endColumn": 174,
+                    "endOffset": 6112
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 3811,
+                        "endColumn": 178,
+                        "endOffset": 3985
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 6117,
+                    "endColumn": 104,
+                    "endOffset": 6217
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3572,
+                        "endColumn": 104,
+                        "endOffset": 3672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 6222,
+                    "endColumn": 147,
+                    "endOffset": 6365
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3294,
+                        "endColumn": 147,
+                        "endOffset": 3437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 6370,
+                    "endColumn": 62,
+                    "endOffset": 6428
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 5822,
+                        "endColumn": 62,
+                        "endOffset": 5880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 6433,
+                    "endColumn": 61,
+                    "endOffset": 6490
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 7327,
+                        "endColumn": 61,
+                        "endOffset": 7384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 6495,
+                    "endColumn": 78,
+                    "endOffset": 6569
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 7449,
+                        "endColumn": 78,
+                        "endOffset": 7523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 6574,
+                    "endColumn": 54,
+                    "endOffset": 6624
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 54,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 6629,
+                    "endColumn": 58,
+                    "endOffset": 6683
+                },
+                "from": {
+                    "file": "/Users/viniciusdepaula/phonegap/InngageSample/platforms/android/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 58,
+                        "endOffset": 160
+                    }
+                }
+            }
+        ]
+    }
+]

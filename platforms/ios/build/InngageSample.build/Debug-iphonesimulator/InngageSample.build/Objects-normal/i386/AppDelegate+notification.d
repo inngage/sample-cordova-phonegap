@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/viniciusdepaula/phonegap/InngageSample/platforms/ios/InngageSample/Plugins/phonegap-plugin-push/AppDelegate+notification.m \
+  /Users/viniciusdepaula/phonegap/InngageSample/platforms/ios/InngageSample/Plugins/phonegap-plugin-push/AppDelegate+notification.h \
+  /Users/viniciusdepaula/phonegap/InngageSample/platforms/ios/InngageSample/Classes/AppDelegate.h \
+  /Users/viniciusdepaula/phonegap/InngageSample/platforms/ios/build/emulator/include/Cordova/CDVViewController.h \
+  /Users/viniciusdepaula/phonegap/InngageSample/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h \
+  /Users/viniciusdepaula/phonegap/InngageSample/platforms/ios/build/emulator/include/Cordova/CDVAvailabilityDeprecated.h \
+  /Users/viniciusdepaula/phonegap/InngageSample/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h \
+  /Users/viniciusdepaula/phonegap/InngageSample/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h \
+  /Users/viniciusdepaula/phonegap/InngageSample/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h \
+  /Users/viniciusdepaula/phonegap/InngageSample/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h \
+  /Users/viniciusdepaula/phonegap/InngageSample/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h \
+  /Users/viniciusdepaula/phonegap/InngageSample/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h \
+  /Users/viniciusdepaula/phonegap/InngageSample/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h \
+  /Users/viniciusdepaula/phonegap/InngageSample/platforms/ios/build/emulator/include/Cordova/CDVWebViewEngineProtocol.h \
+  /Users/viniciusdepaula/phonegap/InngageSample/platforms/ios/build/emulator/include/Cordova/CDVAppDelegate.h \
+  /Users/viniciusdepaula/phonegap/InngageSample/platforms/ios/InngageSample/Plugins/phonegap-plugin-push/PushPlugin.h \
+  /Users/viniciusdepaula/phonegap/InngageSample/platforms/ios/build/emulator/include/Cordova/CDV.h \
+  /Users/viniciusdepaula/phonegap/InngageSample/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h \
+  /Users/viniciusdepaula/phonegap/InngageSample/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h \
+  /Users/viniciusdepaula/phonegap/InngageSample/platforms/ios/build/emulator/include/Cordova/CDVTimer.h \
+  /Users/viniciusdepaula/phonegap/InngageSample/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
